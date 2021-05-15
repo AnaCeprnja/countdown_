@@ -10,6 +10,7 @@ body {
 h2 {
   font-size: 5rem;
   font-weight: bold;
+  padding: 3rem;
 }
 .coming-soon {
   min-height: 100vh;
@@ -28,4 +29,8 @@ h2 {
 .minute,
 .second {
   font-size: 3rem;
+}
+
+.waiting{
+ height: 5vh:   
 }
